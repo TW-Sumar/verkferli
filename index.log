@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.4.6)  17 MAY 2020 22:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.4.6)  17 MAY 2020 22:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1307,11 +1307,11 @@ Package rerunfilecheck Info: File `index.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 377.
  ) 
 Here is how much of TeX's memory you used:
- 17514 strings out of 492982
- 255514 string characters out of 6134897
+ 17516 strings out of 492982
+ 255534 string characters out of 6134897
  388827 words of memory out of 5000000
  20713 multiletter control sequences out of 15000+600000
- 43452 words of font info for 55 fonts, out of 8000000 for 9000
+ 43535 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  36i,11n,43p,561b,487s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf/fonts/enc/d
@@ -1325,7 +1325,7 @@ usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/p
 ublic/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb></usr/sha
 re/texmf/fonts/type1/public/lm/lmtk10.pfb></usr/share/texmf/fonts/type1/public/
 lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtti10.pfb>
-Output written on index.pdf (6 pages, 296176 bytes).
+Output written on index.pdf (6 pages, 296174 bytes).
 PDF statistics:
  162 PDF objects out of 1000 (max. 8388607)
  138 compressed objects within 2 object streams
