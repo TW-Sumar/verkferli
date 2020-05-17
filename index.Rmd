@@ -36,6 +36,8 @@ Fyrst skal:
   
   4. Prufa að commit og push á git í gegnum RStudio (líka hægt í terminal en þetta er "noob-vænna")
   
+Getið notað ssh eða venjulegt log-in. Sjá nánar [hér](https://happygitwithr.com/).
+  
 # Sýnidæmi
 Ef það er verið að vinna með stór gagnasett er tímasóun að vinna allt í einni Rmd skrá sem þarf að endurkeyra kóðann í hvert skipti sem hún er prjónuð. Betra að búta vinnsluna niður í nokkrar skriptur með vel skilgreind hlutverk. Til dæmis:
 
@@ -75,7 +77,11 @@ include_graphics('img/sum_bp.png')
 ```
 
 ## Umræða
-Tekur enga stund að keyra þessa skrá. Ef það þarf að breyta myndum eða töflum er það gert í \texttt{binomial\_wrangl.R} og svo endurprjóna \texttt{index.Rmd}. Allar tölur eru birtar með vísum í minni svo það þarf ekki að endurskrifa neinar tölur. Hef notað þessa uppsetningu til að skila heimadæmum og skýrslum í áföngum eins og Hagnýt Bayesísk tölfræði og Stærðfræðigreining IV þar sem það þurfti að blanda saman kóða, töflum, myndum og stærðfræði. 
+Tekur enga stund að keyra þessa skrá. Ef það þarf að breyta myndum eða töflum er það gert í \texttt{binomial\_wrangl.R} og svo endurprjóna \texttt{index.Rmd}. Allar tölur eru birtar með vísum í minni svo það þarf ekki að endurskrifa neinar tölur. Hef notað þessa uppsetningu til að skila heimadæmum og skýrslum í áföngum eins og Hagnýt Bayesísk tölfræði og Stærðfræðigreining IV þar sem það þurfti að blanda saman kóða, töflum, myndum og stærðfræði. Dæmi um stærðfræði:
+
+$$
+\mbox{Ei}(x) = -\int _{-x} ^{\infty} \frac{e^{-t}}{t} dt.
+$$
 
 \newpage
 
